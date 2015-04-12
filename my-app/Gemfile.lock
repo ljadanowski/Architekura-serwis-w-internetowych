@@ -51,6 +51,7 @@ GEM
       execjs
     coffee-script-source (1.9.1)
     columnize (0.9.0)
+    cowsay (0.2.0)
     debug_inspector (0.0.2)
     email_validator (1.5.0)
       activemodel
@@ -151,6 +152,7 @@ PLATFORMS
 DEPENDENCIES
   byebug
   coffee-rails (~> 4.1.0)
+  cowsay
   email_validator
   jbuilder (~> 2.0)
   jquery-rails
