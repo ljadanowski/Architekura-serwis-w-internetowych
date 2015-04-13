@@ -4,7 +4,7 @@ test:
   host: localhost
   database: my_project_test
   pool: 5
-  username:
+  username: postgres
   password:
 
 development:
@@ -13,7 +13,7 @@ development:
   host: localhost
   database: my_project_development
   pool: 5
-  username:
+  username: postgres
   password:
 
 production:
@@ -22,5 +22,5 @@ production:
   host: localhost
   database: my_project_production
   pool: 5
-  username:
+  username: postgres
   password:
